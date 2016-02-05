@@ -24,15 +24,16 @@ namespace Exercise_28
             string allDivisibleNumbers = "";
 
             // catch 3 perfect number, check all.
-            for (int j = number; j >= 1; j--)
+            for (int j = number; number >= 1; j--)   // run 'number' times
             {
-                // iterate all values possible of number &
-                for (int i = 1; i >= number; i--)
+                int numberCopy = number;
+                int sum;
+                // iterate all values possible of numberCopy &
+                for (int i = numberCopy; numberCopy >= 1; i--) // run 'number' times
                 {
-                    int sum = 0;
-
+                    sum = 0;
                     // check modulo
-                    int moduloResult = number % i;
+                    int moduloResult = numberCopy % i;
                     // store modulo %
                     if (moduloResult == 0)
                     {
@@ -43,7 +44,7 @@ namespace Exercise_28
 
                     // "perfect number" logic
                     // i.e.: if the sum of all modulo result of 'number' is equal to 'number'
-                    if (sum == number)
+                    if (sum == numberCopy || sum != 0)
                     {
                         perfectNumberCount++;
                         PerfectNumbers_found = PerfectNumbers_found + "  " + sum.ToString()  ;
@@ -57,14 +58,14 @@ namespace Exercise_28
                         Console.ReadKey();
                         break;
                     }
-                    else if ( i == number && perfectNumberCount == 3) {
+                    else if ( i == numberCopy && perfectNumberCount == 3) {
                         Console.WriteLine("we found 3 perfect numbers!");
                         Console.WriteLine("Perfect numbers are:  {0}.", PerfectNumbers_found);
                         Console.ReadKey();
                         break;
                     }
                     // ending loop because not all three perfect numbers found.
-                    else if (i == number && perfectNumberCount != 3)
+                    else if (i == numberCopy && perfectNumberCount != 3)
                     {
                         Console.WriteLine("we couldn't found 3 perfect numbers!");
                         Console.WriteLine("Perfect numbers are:  {0}.", PerfectNumbers_found);
@@ -72,7 +73,9 @@ namespace Exercise_28
                         break;
                     }
                     Console.WriteLine("This is the result of all divisible numbers of {0} number-item(s) : {1}", number, allDivisibleNumbers);
+                    numberCopy--;
                 }
+                number--;
             }
         }
     }
