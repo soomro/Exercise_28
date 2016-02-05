@@ -1,0 +1,21 @@
+c:\users\mouha\documents\visual studio 2015\Projects\Exercise 28\Exercise 28\bin\Debug\Exercise 28.exe.config
+c:\users\mouha\documents\visual studio 2015\Projects\Exercise 28\Exercise 28\bin\Debug\Exercise 28.exe
+c:\users\mouha\documents\visual studio 2015\Projects\Exercise 28\Exercise 28\bin\Debug\Exercise 28.pdb
+c:\users\mouha\documents\visual studio 2015\Projects\Exercise 28\Exercise 28\obj\Debug\Exercise 28.csprojResolveAssemblyReference.cache
+c:\users\mouha\documents\visual studio 2015\Projects\Exercise 28\Exercise 28\obj\Debug\Exercise 28.exe
+c:\users\mouha\documents\visual studio 2015\Projects\Exercise 28\Exercise 28\obj\Debug\Exercise 28.pdb
+C:\Users\mouha\OneDrive\sharecode\Exercise 28\Exercise 28\bin\Debug\Exercise 28.exe.config
+C:\Users\mouha\OneDrive\sharecode\Exercise 28\Exercise 28\obj\Debug\Exercise 28.exe
+C:\Users\mouha\OneDrive\sharecode\Exercise 28\Exercise 28\obj\Debug\Exercise 28.pdb
+C:\Users\mouha\OneDrive\sharecode\Exercise 28\Exercise 28\bin\Debug\Exercise 28.exe
+C:\Users\mouha\OneDrive\sharecode\Exercise 28\Exercise 28\bin\Debug\Exercise 28.pdb
+C:\Users\mouha\OneDrive\sharecode\Exercise 28\Exercise 28\obj\Debug\Exercise 28.csprojResolveAssemblyReference.cache
+C:\Users\w_soo\OneDrive\sharecode\Exercise 28\Exercise 28\bin\Debug\Exercise 28.exe.config
+C:\Users\w_soo\OneDrive\sharecode\Exercise 28\Exercise 28\obj\Debug\Exercise 28.exe
+C:\Users\w_soo\OneDrive\sharecode\Exercise 28\Exercise 28\obj\Debug\Exercise 28.pdb
+C:\Users\w_soo\OneDrive\sharecode\Exercise 28\Exercise 28\bin\Debug\Exercise 28.exe
+C:\Users\w_soo\OneDrive\sharecode\Exercise 28\Exercise 28\bin\Debug\Exercise 28.pdb
+C:\Users\w_soo\OneDrive\sharecode\Exercise 28\Exercise 28\obj\Debug\Exercise 28.csprojResolveAssemblyReference.cache
+C:\Users\w_soo\OneDrive\sharecode\Exercise_28\Exercise 28\bin\Debug\Exercise 28.exe.config
+C:\Users\w_soo\OneDrive\sharecode\Exercise_28\Exercise 28\obj\Debug\Exercise 28.exe
+C:\Users\w_soo\OneDrive\sharecode\Exercise_28\Exercise 28\obj\Debug\Exercise 28.pdb
