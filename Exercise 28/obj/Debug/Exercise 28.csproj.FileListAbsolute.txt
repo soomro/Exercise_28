@@ -22,3 +22,6 @@ C:\Users\w_soo\OneDrive\sharecode\Exercise_28\Exercise 28\obj\Debug\Exercise 28.
 C:\Users\w_soo\OneDrive\sharecode\Exercise_28\Exercise 28\bin\Debug\Exercise 28.exe
 C:\Users\w_soo\OneDrive\sharecode\Exercise_28\Exercise 28\bin\Debug\Exercise 28.pdb
 C:\Users\w_soo\OneDrive\sharecode\Exercise_28\Exercise 28\obj\Debug\Exercise 28.csprojResolveAssemblyReference.cache
+C:\OneDrive\sharecode\Exercise_28\Exercise 28\bin\Debug\Exercise 28.exe.config
+C:\OneDrive\sharecode\Exercise_28\Exercise 28\obj\Debug\Exercise 28.exe
+C:\OneDrive\sharecode\Exercise_28\Exercise 28\obj\Debug\Exercise 28.pdb
